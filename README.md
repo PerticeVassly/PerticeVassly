@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a Computer Science undergraduate at **Nanjing University**. Passionate about full-stack development and system programming.
+I'm a Software Engineering undergraduate at **Nanjing University**. Passionate about full-stack development and system programming.
 
 ## 🔥 Interests
 - **Full-Stack Development**: Vue, Spring
